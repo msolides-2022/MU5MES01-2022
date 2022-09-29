@@ -141,6 +141,9 @@ problem = fem.petsc.LinearProblem(a, L, bcs=[bc], petsc_options={"ksp_type": "pr
 uh = problem.solve()
 # -
 
+unorm = uh.x.norm()
+print("Solution vector norm:", unorm)
+print('This norm should be equal to 4')
 # The solution can be written to a  {py:class}`XDMFFile
 # <dolfinx.io.XDMFFile>` file visualization with ParaView or VisIt
 
