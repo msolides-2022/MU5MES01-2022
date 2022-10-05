@@ -40,6 +40,8 @@ You can find further help on conda [here](https://docs.conda.io/projects/conda/e
     ```
     conda env create --file fenicsx-0.5.1.yml --force
     ```
+- If you do have issues with pyvista try setting `pyvista.set_jupyter_backend("none")`. If this does not work, just do not use pyvista: comment the related lines of code, save to xdmf format and visualize results in paraview.
+
 ## On Windows
 
 FEniCS is not distributed for Windows boxes. For Windows 10, the preferred option is the [Windows subsystem for linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/install-win10).
