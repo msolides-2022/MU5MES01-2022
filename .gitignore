@@ -5,3 +5,4 @@ out_poisson/*
 .DS_Store
 *.h5
 *.xdmf
+*/__pycache__/
