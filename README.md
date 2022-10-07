@@ -45,3 +45,6 @@ In this class we will use the following open-source numerical tools:
     pyvista - PyVista package for 3D plotting and mesh analysis (https://docs.pyvista.org).
 
 - `paraview`: ParaView is an open-source, multi-platform data analysis and visualization application (https://www.paraview.org).
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/msolides-2022/MU5MES01-2022.git/HEAD)
