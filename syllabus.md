@@ -19,15 +19,15 @@ This is the preliminary program
 
   * 07/10 TP 2 - Linear Elasticity Eshelby
   * 14/10 TP 2 - Linear Elasticity Eshelby (cont'd)
-   (Submit the 2 pages report on thursday 21st october 2022)
+   (Submit the 2 pages report on thursday 20th october 2022)
 
 ## Part II - Introduction to nonlinear elasticity
-  * 21/10 (Amphi Claire) Cours and basic tutorial
+  * 21/10 (Amphi C. Lestringant) Cours and basic tutorial
   * 28/10 TP3 Explicit implementation of a Newton solver
 
 ## Part III - Dynamics
 
-  * 18/11 (Amphi Denis) Cours (D. Duhamel) and basic tutorial
+  * 18/11 (Amphi D. Duhamel) Cours and basic tutorial
   * 02/12 TP Dynamique, 2D rectangle (linear setup)
   * 09/12 TP Advanced topic for a project: Bifurcation and stability analysis
 
@@ -37,7 +37,7 @@ This is the preliminary program
 
 * 30/09  A working installation of FEniCS (bring your own laptop with a running poisson demo, this will be tested and is a part of the evaluation)
 * 21/10  1st short (2 pages) report (linear elasticity (Eshelby))
-* 16/12  2nd written report 4 pages (Structural Design of a bridge tower)
+* 16/12  2nd written report 4 pages (Structural Design of a bridge tower or snapping dynamics of a beam)
 
 
 ## References:
