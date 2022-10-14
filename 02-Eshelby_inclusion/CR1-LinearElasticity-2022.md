@@ -58,7 +58,7 @@ Perform this part only if you feel your level sufficient advanced; this part is 
 - Consider the case of an elliptical inclusion and perform the convergence analysis for different aspect ratio of the ellipse and comment the results.
 
 # References 
-[1] Jørgen S. Dokken, The FEniCSx tutorial, https://jorgensd.github.io/dolfinx-tutorial/index.html
+[1] Jørgen S. Dokken, The FEniCSx tutorial, https://jorgensd.github.io/dolfinx-tutorial/index.html, Convergence analysis: https://jorgensd.github.io/dolfinx-tutorial/chapter4/convergence.html
 
 [2] B.Szabó, I.Babuška, Introduction to Finite Element Analysis: Formulation, Verification and Validation, Wiley 2011, ISBN: 978-0-470-97728-6
 
