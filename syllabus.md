@@ -26,12 +26,11 @@ This is the preliminary program
   * 28/10 TP3 Explicit implementation of a Newton solver
 
 ## Part III - Dynamics
+  * 18/11 (Amphi D. Duhamel) Cours and basic tutorial (explicit dynamics)
+  * 02/12 TP4 Dynamics, 2D rectangle (implicit dynamics)
+  * 09/12 TP5 Advanced topic for a project: Dynamics of the snapping instability
 
-  * 18/11 (Amphi D. Duhamel) Cours and basic tutorial
-  * 02/12 TP Dynamique, 2D rectangle (linear setup)
-  * 09/12 TP Advanced topic for a project: Bifurcation and stability analysis
-
-  * (?? Janvier 2023) EXAMEN ORAL : 30 min
+  * (?? Janvier 2023) Oral Exam: 30 min
 
 ## Deadlines
 
